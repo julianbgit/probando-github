@@ -1,4 +1,4 @@
-# probando-github
+# primer repositorio de prueba
 
 ##descripcion 
 
