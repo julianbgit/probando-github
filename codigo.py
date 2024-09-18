@@ -5,7 +5,9 @@ numero2 = 7
 suma = numero1 + numero2
 resta = numero1 - numero2
 producto= numero1 * numero2
+nombre = "julian"
 # Imprimimos los resultados
 print("La suma de los números es:", suma)
 print("La resta de los números es:", resta)
 print("el producto de tus numeros:", producto)
+print("hola" + nombre) 
